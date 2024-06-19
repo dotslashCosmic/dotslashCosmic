@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dotslashcosmic" alt="dotslashcosmic" /></a> </p>
 
-- 🔭 I’m currently working on [./WebShell om php](https://github.com/dotslashCosmic/DotSlashWebShell)
+- 🔭 I’m currently working on [./WebShell on php](https://github.com/dotslashCosmic/DotSlashWebShell)
 
 - 👯 I’m looking to collaborate on [python networking for custom IPv4 transport](https://github.com/dotslashCosmic/DotSlashProtocol)
 
