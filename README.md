@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dotslashCosmic" alt="dotslashCosmic" /></a> </p>
 
-- Check out my [custom programming language <b>DSlash</b>](https://github.com/dotslashCosmic/dslashLanguage)- aka <b>D/</b> -elegant as Python, and powerful as C#, based on C#.
+- Check out my [custom, quantum resistant hashing algorithm Qosmic512](https://github.com/dotslashCosmic/qosmic512)- aka <b>qosmic</b> -Theoretically as strong as SHA and Blake, and almost as fast.</br>It uses a mixed hybrid approach of different cryptographic styles, written in Rust, making it a robust solution for modern data integrity needs.
 
 - 🔭 I’m currently working on [zQoin Cryptocurrency in Python](https://github.com/dotslashCosmic/zQoinPython) written completely from scratch
 
